@@ -1,5 +1,5 @@
 #   Hello, I'm Pratham Gupta 
-### Java Developer | MySQL Specialist | Ghost Writer | B.Tech CS Student
+### Full Stack Developer | Backend Developer - Node JS, JavaScript | Python | ML | B.Tech CS Student
 
 ---
 
@@ -14,11 +14,6 @@ I am a B.Tech Computer Science student at **ITM University, Gwalior** (2023-2027
 ---
 
 ## 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-</p>
 
 ---
 
@@ -50,16 +45,10 @@ I am preparing myself for high-impact roles in global technology leaders. My upc
 ---
 
 ## 🏆 Goals & Awards
-- [ ] Achieve Industry Certifications in Java.
+- [ ] Achieve Industry Certifications in Python, ML, CyberSecurity & NodeJS (JavaScript).
 - [ ] Contribute to major Open Source projects.
-- [ ] **Current Status:** "No awards yet, but I will try to Aim it."
 
 ---
 
 ## 📬 Reach Out to Me
 - **Email:** guptagivyravindra@gmail.com
-- **Portfolio:** *Coming Soon*
-
-<p align="center">
-  <i>"Life was not as easy for me, but I used the most powerful weapon of learning which helped me to grow."</i>
-</p>
