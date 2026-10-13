@@ -7,8 +7,7 @@
 I am a B.Tech Computer Science student at **ITM University, Gwalior** (2023-2027). I describe myself as a dedicated learner who uses the "powerful weapon of learning" to grow and tackle any challenge. Currently, I am exploring the world of technology and building a strong foundation in backend development.
 
 - 🎓 **Education:** Pursuing B.Tech (CS) at ITM University.
-- 💻 **Tech Stack:** Focused on Java and MySQL Database management.
-- ✍️ **Creative Side:** Professional Ghost Writer.
+- 💻 **Tech Stack:** Focused on Python & Backend Developing.
 - 📍 **Location:** Orai, Uttar Pradesh, India.
 
 ---
