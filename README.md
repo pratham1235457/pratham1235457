@@ -26,5 +26,4 @@ Tools: GitHub, Discord, Trello/Notion. DM me!
 - **Major:** Computer Science & Engineering
 ---
 
-## 📬 Reach Out to Me
-- **Email:** guptagivyravindra@gmail.com
+##  Reach Out to me at guptagivyravindra@gmail.com
