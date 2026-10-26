@@ -1,4 +1,4 @@
-#   Hello, I'm Pratham Gupta 
+##  Hello, I'm Pratham Gupta 
 ### Python Developer | Full Stack Developer | Backend Developer - Node JS, JavaScript | Python | ML | B.Tech CS Student
 
 ---
@@ -24,6 +24,7 @@ Tools: GitHub, Discord, Trello/Notion. DM me!
 
 - **Timeline:** July 2023 — January 2027
 - **Major:** Computer Science & Engineering
+
 ---
 
-##  Reach Out to me at guptagivyravindra@gmail.com
+Reach Out to me at guptagivyravindra@gmail.com
