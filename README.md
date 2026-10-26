@@ -10,13 +10,12 @@ Tools: GitHub, Discord, Trello/Notion. DM me!
 
 ---
 
-## 🎓 Academic Excellence
+## Academic Excellence
 **ITM University, Gwalior**
 > "Ranked among the top colleges in Gwalior, focusing on academic excellence and holistic development to shape future leaders."
 
 - **Timeline:** July 2023 — January 2027
 - **Major:** Computer Science & Engineering
-- 
 ---
 
 ## 📬 Reach Out to Me
