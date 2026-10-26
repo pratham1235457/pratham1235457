@@ -1,5 +1,5 @@
 #   Hello, I'm Pratham Gupta 
-### Full Stack Developer | Backend Developer - Node JS, JavaScript | Python | ML | B.Tech CS Student
+### Python Developer | Full Stack Developer | Backend Developer - Node JS, JavaScript | Python | ML | B.Tech CS Student
 
 ---
 
